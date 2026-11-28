@@ -1,0 +1,16 @@
+{
+  "ttft_s": 0.2,
+  "total_s": 36.935,
+  "prompt_tokens": 651,
+  "completion_tokens": 3320,
+  "reasoning_chars": 2616,
+  "answer_chars": 6148,
+  "prompt_tok_s": 60.1,
+  "predicted_tok_s": 90.23,
+  "output_tok_s_wall": 89.89,
+  "files_extracted": [
+    "go.mod",
+    "main.go",
+    "main_test.go"
+  ]
+}

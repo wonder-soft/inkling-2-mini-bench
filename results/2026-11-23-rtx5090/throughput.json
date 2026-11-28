@@ -1,0 +1,16 @@
+{
+  "label": "e0.2",
+  "model": "inkling-2-mini",
+  "rows": [
+    {
+      "concurrency": 1,
+      "requests": 3,
+      "wall_s": 34.09564692398999,
+      "total_tokens": 3057,
+      "aggregate_tok_s": 89.65953943666247,
+      "single_stream_tok_s_median": 90.85759848855534,
+      "ttft_s_median": 0.13972598197869956,
+      "ttft_s_p99": 0.21835815900703892
+    }
+  ]
+}

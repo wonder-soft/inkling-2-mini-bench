@@ -1,0 +1,15 @@
+{
+  "ttft_s": 1.848,
+  "total_s": 37.949,
+  "prompt_tokens": 3756,
+  "completion_tokens": 3222,
+  "reasoning_chars": 2963,
+  "answer_chars": 6120,
+  "prompt_tok_s": 2222.56,
+  "predicted_tok_s": 89.12,
+  "output_tok_s_wall": 84.9,
+  "files_extracted": [
+    "Cargo.toml",
+    "src/main.rs"
+  ]
+}

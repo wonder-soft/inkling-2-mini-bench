@@ -1,0 +1,10 @@
+effort=0.0   run=0 reasoning_chars=  8485 content_chars=  5903 completion_tok=  4813 wall=  53.6s decode=90.1tok/s finish=stop
+effort=0.0   run=1 reasoning_chars=  6181 content_chars=  5233 completion_tok=  3792 wall=  42.1s decode=90.3tok/s finish=stop
+effort=0.2   run=0 reasoning_chars=  1601 content_chars=  4821 completion_tok=  2224 wall=  24.7s decode=90.7tok/s finish=stop
+effort=0.2   run=1 reasoning_chars=  3415 content_chars=  5188 completion_tok=  3035 wall=  33.6s decode=90.5tok/s finish=stop
+effort=0.7   run=0 reasoning_chars=  6331 content_chars=  7179 completion_tok=  4614 wall=  51.3s decode=90.3tok/s finish=stop
+effort=0.7   run=1 reasoning_chars= 12182 content_chars=  7578 completion_tok=  7267 wall=  81.0s decode=89.8tok/s finish=stop
+effort=0.9   run=0 reasoning_chars= 55478 content_chars=   957 completion_tok= 20000 wall= 227.2s decode=88.1tok/s finish=length
+effort=0.9   run=1 reasoning_chars= 59516 content_chars=     0 completion_tok= 20000 wall= 227.3s decode=88.1tok/s finish=length
+effort=0.99  run=0 reasoning_chars= 57154 content_chars=     0 completion_tok= 20000 wall= 227.7s decode=88.0tok/s finish=length
+effort=0.99  run=1 reasoning_chars= 60748 content_chars=     0 completion_tok= 20000 wall= 227.5s decode=88.0tok/s finish=length

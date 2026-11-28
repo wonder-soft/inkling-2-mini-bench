@@ -1,0 +1,12 @@
+{
+  "ttft_s": 0.325,
+  "total_s": 274.9,
+  "prompt_tokens": 854,
+  "completion_tokens": 24000,
+  "reasoning_chars": 65134,
+  "answer_chars": 0,
+  "prompt_tok_s": 57.73,
+  "predicted_tok_s": 87.39,
+  "output_tok_s_wall": 87.3,
+  "files_extracted": []
+}

@@ -1,0 +1,16 @@
+{
+  "ttft_s": 0.657,
+  "total_s": 15.268,
+  "prompt_tokens": 645,
+  "completion_tokens": 1320,
+  "reasoning_chars": 880,
+  "answer_chars": 3043,
+  "prompt_tok_s": 1171.92,
+  "predicted_tok_s": 89.71,
+  "output_tok_s_wall": 86.45,
+  "files_extracted": [
+    "app/__init__.py",
+    "app/main.py",
+    "tests/test_api.py"
+  ]
+}
